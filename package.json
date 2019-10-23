@@ -1,0 +1,24 @@
+{
+  "name": "httpclient",
+  "version": "1.0.0",
+  "description": ".Net Core style http client class library for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/agroupp/httpclient.git"
+  },
+  "keywords": [
+    "Http",
+    "fetch",
+    "Httpclient"
+  ],
+  "author": "Arthur Groupp <arth.groupp@gmail.com> (https://groupp.org)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/agroupp/httpclient/issues"
+  },
+  "homepage": "https://github.com/agroupp/httpclient#readme"
+}
