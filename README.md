@@ -94,3 +94,8 @@ async function testDelete(id) {
 }
 
 ```
+
+## Testing
+
+    npm test
+
