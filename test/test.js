@@ -1,6 +1,6 @@
 const should = require('chai').should();
 
-const { HttpClient } = require('../lib/http-client');
+const { HttpClient } = require('../index');
 const http = new HttpClient();
 http.baseAddress = 'https://jsonplaceholder.typicode.com/';
 
