@@ -1,6 +1,6 @@
 {
-  "name": "httpclient",
-  "version": "1.0.0",
+  "name": "@groupp/httpclient",
+  "version": "1.0.1",
   "description": ".Net Core style http client class library for Node.js",
   "main": "index.js",
   "scripts": {
