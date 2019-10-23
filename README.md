@@ -4,7 +4,7 @@
 ## Installation
 Install Fetch as an npm module and save it to your package.json file as a dependency:
     
-    npm install --save httpclient
+    npm install --save @groupp/httpclient
 
 ## Usage
 Library provides `HttpClient` class for sending HTTP requests and receiving HTTP responses. The `HttpClient` class instance acts as a session to send HTTP requests. An `HttpClient` instance is a collection of settings applied to all requests executed by that instance. In addition, every `HttpClient` instance uses its own connection pool, isolating its requests from requests executed by other HttpClient instances.
